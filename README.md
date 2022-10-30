@@ -1,2 +1,2 @@
 # Algorithms
-All algorithms implemented in python...!!
+All algorithms implemented in various languages...!!
